@@ -1,0 +1,28 @@
+{
+  "name": "canvasdemo",
+  "version": "1.0.0",
+  "description": "canvas demo example1: 选中图像 example2: 拖曳图像 example3: 旋转图像",
+  "main": "draw.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fengyueran/CanvasDemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengyueran/CanvasDemo/issues"
+  },
+  "homepage": "https://github.com/fengyueran/CanvasDemo#readme",
+  "dependencies": {
+    "fabric": "^1.7.16"
+  },
+  "devDependencies": {
+    "express": "^4.15.3"
+  }
+}

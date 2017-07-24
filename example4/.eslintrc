@@ -1,0 +1,16 @@
+{
+  "parser": "babel-eslint",
+  "extends": [
+    "curacloud"
+  ],
+  "env": {
+    "es6": true,
+    "node": true,
+    "browser": true,
+    "jquery": true,
+  },
+  "rules": {
+  },
+  "globals": {
+  }
+}
